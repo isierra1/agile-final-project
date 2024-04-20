@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ---
-name: Custom issue User Storytemplate
+name: Custom issue User Story template
 about: This template is for creating user stories
 title: ''
 labels: ''
